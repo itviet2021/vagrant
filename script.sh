@@ -1,4 +1,5 @@
 #!/bin/bash
-echo "Kiểu 5: Chạy script từ URL Github"
+echo
+echo "--- Kieu 5: Chay script từ URL Github ---"
 date
 echo
